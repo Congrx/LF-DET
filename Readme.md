@@ -51,8 +51,9 @@ python test.py
 ## Acknowledgement
 
 Our work and implementations are inspired and based on the following projects:
-[BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR)
-[LFT](https://github.com/ZhengyuLiang24/LFT)
+
+- [BasicLFSR](https://github.com/ZhengyuLiang24/BasicLFSR)
+- [LFT](https://github.com/ZhengyuLiang24/LFT)
 
 We sincerely thank the authors for sharing their code and amazing research work!
 
