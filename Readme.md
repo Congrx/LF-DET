@@ -2,9 +2,9 @@
 
 This is the official pytorch implementation repository of [Exploiting Spatial and Angular Correlations With Deep Efficient Transformers for Light Field Image Super-Resolution.](http)
 
-![spatial-angular separable transformer encoder](images/spatial-angular separable transformer encoder.png)
+![spatial-angular separable transformer encoder](./images/spatial-angular separable transformer encoder.png)
 
-![network architecture](images/network architecture.png)
+![network architecture](./images/network architecture.png)
 
 ## Datasets
 
@@ -14,7 +14,7 @@ Besides, we use three datasets, including UrbanLF, DLFD, SLFD to validate the ef
 
 ## Results
 
-![LFSSR_results](images/LFSSR_results.png)
+![LFSSR_results](./images/LFSSR_results.png)
 
 ## Code
 
