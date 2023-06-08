@@ -1,6 +1,6 @@
 # LF-DET
 
-This is the official pytorch implementation repository of [Exploiting Spatial and Angular Correlations With Deep Efficient Transformers for Light Field Image Super-Resolution.](https://ieeexplore.ieee.org/abstract/document/10143279)
+This is the official pytorch implementation repository of [Exploiting Spatial and Angular Correlations With Deep Efficient Transformers for Light Field Image Super-Resolution.](https://ieeexplore.ieee.org/abstract/document/10143279) (IEEE TMM 2023)
 
 ![spatial-angular_separable_transformer_encoder](./images/spatial-angular_separable_transformer_encoder.png)
 
